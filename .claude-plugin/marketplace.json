@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "hyunjae-marketplace",
+  "description": "Plugins by hyunjae-labs",
+  "owner": {
+    "name": "hyunjae-labs"
+  },
+  "plugins": [
+    {
+      "name": "getlore",
+      "description": "Semantic search MCP + query optimization skill for Claude Code conversation history",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/hyunjae-labs/lore-search.git"
+      },
+      "homepage": "https://github.com/hyunjae-labs/lore-search"
+    }
+  ]
+}

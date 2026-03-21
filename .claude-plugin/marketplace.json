@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "hyunjae-marketplace",
+  "name": "clauder",
   "description": "Plugins by hyunjae-labs",
   "owner": {
     "name": "hyunjae-labs"

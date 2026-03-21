@@ -10,10 +10,7 @@
       "name": "lore",
       "description": "Semantic search MCP + query optimization skill for Claude Code conversation history",
       "category": "productivity",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/hyunjae-labs/lore.git"
-      },
+      "source": "./plugins/lore",
       "homepage": "https://github.com/hyunjae-labs/lore"
     }
   ]

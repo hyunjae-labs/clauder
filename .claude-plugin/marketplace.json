@@ -7,7 +7,7 @@
   },
   "plugins": [
     {
-      "name": "getlore",
+      "name": "lore",
       "description": "Semantic search MCP + query optimization skill for Claude Code conversation history",
       "category": "productivity",
       "source": {

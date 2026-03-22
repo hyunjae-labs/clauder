@@ -9,6 +9,7 @@
     {
       "name": "lore",
       "description": "Semantic search MCP + query optimization skill for Claude Code conversation history",
+      "version": "0.2.28",
       "category": "productivity",
       "source": {
         "source": "url",

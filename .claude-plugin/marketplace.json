@@ -9,13 +9,24 @@
     {
       "name": "lore",
       "description": "Semantic search MCP + query optimization skill for Claude Code conversation history",
-      "version": "0.2.28",
+      "version": "0.2.36",
       "category": "productivity",
       "source": {
         "source": "url",
         "url": "https://github.com/hyunjae-labs/lore.git"
       },
       "homepage": "https://github.com/hyunjae-labs/lore"
+    },
+    {
+      "name": "ember",
+      "description": "Personal todo MCP server with hybrid semantic search for Claude Code",
+      "version": "0.1.0",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/hyunjae-labs/ember.git"
+      },
+      "homepage": "https://github.com/hyunjae-labs/ember"
     }
   ]
 }

@@ -20,7 +20,7 @@
     {
       "name": "ember",
       "description": "Personal todo MCP server with hybrid semantic search for Claude Code",
-      "version": "0.1.0",
+      "version": "0.3.0",
       "category": "productivity",
       "source": {
         "source": "url",

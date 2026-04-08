@@ -9,7 +9,6 @@
     {
       "name": "lore",
       "description": "Semantic search MCP + query optimization skill for Claude Code conversation history",
-      "version": "0.2.36",
       "category": "productivity",
       "source": {
         "source": "url",
@@ -20,7 +19,6 @@
     {
       "name": "ember",
       "description": "Personal todo MCP server with hybrid semantic search for Claude Code",
-      "version": "0.3.0",
       "category": "productivity",
       "source": {
         "source": "url",
